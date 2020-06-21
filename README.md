@@ -7,4 +7,4 @@ Download all the files and store it in a folder. Run the LRn file alone in MATLA
 3. Using fminunc - Quasi Newton
 4. Using fminunc - Trust-Region
 
-The code can be reused to perform multivariate linear regression problems of all kinds using all these methods. 
+The code has been written in a generalized manner and thus can be reused to perform multivariate linear regression problems of all kinds using all the methods mentioned above. 
